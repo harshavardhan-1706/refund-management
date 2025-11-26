@@ -152,3 +152,11 @@ Use a C compiler like GCC program.c -o program
 On Windows: program.exe
 
 
+Screenshots:
+
+
+
+
+<img width="454" height="352" alt="Screenshot 2025-11-26 130725" src="https://github.com/user-attachments/assets/7bafe689-8d59-4393-8add-3f7922583107" />
+
+<img width="455" height="349" alt="Screenshot 2025-11-26 130800" src="https://github.com/user-attachments/assets/246cd159-773f-4f27-9215-93ed292fcaf2" />
